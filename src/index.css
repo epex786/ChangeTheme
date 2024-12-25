@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#dark{
+  background-color: black;
+  color: cyan;
+}
+
+#light{
+  color: black;
+  background-color: cyan;
+}
